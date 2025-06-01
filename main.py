@@ -1,3 +1,4 @@
+# Simon Says Game
 import pygame
 import random
 import time
